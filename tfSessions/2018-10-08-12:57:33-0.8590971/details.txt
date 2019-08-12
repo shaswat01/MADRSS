@@ -1,0 +1,8 @@
+learning_rate = 0.001
+training_epochs = 1200
+batch_size = 100
+display_step = 100
+n_hidden = [10, 10, 10]
+hiddenLayers = 3
+n_input = 80
+n_classes = 2
