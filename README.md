@@ -1,2 +1,2 @@
 # SSR
-Automatic Speech Stuttering Detection and Removal
+ML Algorithm to detect and remove stuttering from speech.
