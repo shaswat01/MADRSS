@@ -1,10 +1,10 @@
 
 
 
-# In[ ]: Speech Stutttering Project by Shaswat Rajput
+# In[ ]: Speech Stutttering Detection and Removal Project by Shaswat Rajput
 
 
-from __future__ import print_function, division, absolute_import
+from __future__ import division, absolute_import
 import numpy as np
 
 import matplotlib.pyplot as plt
